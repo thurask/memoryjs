@@ -1,6 +1,7 @@
 #pragma once
 #ifndef MEMORYJS_H
 #define MEMORYJS_H
+#define _GNU_SOURCE
 
 #include <node.h>
 
