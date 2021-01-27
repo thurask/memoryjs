@@ -1,6 +1,7 @@
 #pragma once
 #ifndef MEMORY_H
 #define MEMORY_H
+#define _GNU_SOURCE
 
 #include <node.h>
 #include <unistd.h>
