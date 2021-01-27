@@ -1,6 +1,7 @@
 #pragma once
 #ifndef MODULE_H
 #define MODULE_H
+#define _GNU_SOURCE
 
 #include <node.h>
 #include <vector>
