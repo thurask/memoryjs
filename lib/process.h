@@ -1,6 +1,7 @@
 #pragma once
 #ifndef PROCESS_H
 #define PROCESS_H
+#define _GNU_SOURCE
 
 #include <node.h>
 #include <vector>
